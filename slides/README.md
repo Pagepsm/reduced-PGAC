@@ -4,4 +4,4 @@
 
 **[研究紹介スライドをPDFで開く](reduced_PGAC_research_overview.pdf)**
 
-実験の組み立てと各式については[数式付き実験設計](../docs/experiment-design.md)、性能・計算時間の比較は[実験結果](../results/README.md)に記載した。
+実験の組み立てについては[実験設計](../docs/experiment-design.md)、性能・計算時間の比較は[実験結果](../results/README.md)に記載した。
